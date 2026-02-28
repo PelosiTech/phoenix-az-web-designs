@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://phoenixazwebdesigns.com/sitemap.xml
